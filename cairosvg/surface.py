@@ -52,7 +52,7 @@ TAGS = {
     'clipPath': clip_path,
     'ellipse': ellipse,
     'filter': filter_,
-    'image': image,
+#    'image': image,
     'line': line,
     'linearGradient': linear_gradient,
     'marker': marker,
